@@ -46,7 +46,7 @@ export default function Nav() {
                 <a href="/portfolio">Portfolio</a>
               </li>
               <li className="border-b border-gray-400 my-8 uppercase">
-                <a href="/contact">Contact</a>
+                <a href="/">Logout</a>
               </li>
             </ul>
           </div>
